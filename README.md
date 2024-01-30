@@ -8,3 +8,6 @@ medium article -- https://medium.com/@rohitwadhave7/atliq-technology-established
 
 
 -- https://medium.com/@sjatin7599/atliq-hardware-problem-sql-data-exploratory-analysis-317a0243084d
+
+
+Atliq-Hardware-Sales-Insights-Using-PowerBI-and-SQL--https://github.com/madhumitagupt/Sales-Insights-Using-PowerBI-and-SQL
